@@ -3,8 +3,5 @@ git config user.name #rodionov-24#
 git config user.email #roma.rooney@mail.ru
 git log # show logs
 git checkout # branch, hash of commit #
-<<<<<<< HEAD
 git reset --hard HEAD~ (~number of commits)
 git commit --amend (modify commit wothout new commit)
-=======
->>>>>>> bae564cd7aa027061c0a2a047f7ce752f83862c5

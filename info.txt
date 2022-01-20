@@ -1,0 +1,7 @@
+####################
+git config user.name #rodionov-24#
+git config user.email #roma.rooney@mail.ru
+git log # show logs
+git checkout # branch, hash of commit #
+git reset --hard HEAD~ (~number of commits)
+git commit --amend (modify commit wothout new commit)
